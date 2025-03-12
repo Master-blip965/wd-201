@@ -1,2 +1,4 @@
-1+1
-git
+const hello = () =>{
+    console.log("Hello World");
+}
+hello();
